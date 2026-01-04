@@ -137,7 +137,7 @@ Activate the virtual environment:
   ```
 
 
-### Run Notebook
+### 4. Run Notebook
 
   ```bash
   jupyter notebook weather_prediction_rnn.ipynb
