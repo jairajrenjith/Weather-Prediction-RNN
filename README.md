@@ -12,7 +12,7 @@ To build and train a Recurrent Neural Network (RNN) that learns patterns from hi
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **File:** `london_weather.csv`
 - **Type:** Historical time-series weather data
