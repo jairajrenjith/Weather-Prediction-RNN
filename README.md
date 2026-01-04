@@ -84,7 +84,7 @@ Predicted values are inverse-scaled to display results in actual temperature uni
 
 ---
 
-## Future Prediction
+## Prediction
 
 The trained model predicts the next day’s mean temperature using the most recent 7 days of historical weather data.
 
